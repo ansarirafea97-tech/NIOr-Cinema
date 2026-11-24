@@ -1,2 +1,7 @@
-# NIOr-Cinema
-Premium Android Media Player
+## Screenshots
+
+![Home Screen](noir-home.png)
+
+![Movie Details](noir-details.png)
+
+![Player Screen](noir-player.png)
