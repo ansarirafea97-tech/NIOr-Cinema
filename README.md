@@ -1,7 +1,7 @@
 ## Screenshots
 
-![Home Screen](noir-home.png)
+![Home Screen](noir-home.jpg)
 
-![Movie Details](noir-details.png)
+![Movie Details](noir-details.jpg)
 
-![Player Screen](noir-player.png)
+![Player Screen](noir-player.jpg)
