@@ -1,7 +1,7 @@
-## Screenshots
+Screenshots
 
-![Home Screen](nior-home.jpg)
+"Home Screen" (Screenshot_20261124_172232_Noir%20Cinema.jpg)
 
-![Movie Details](nior-details.jpg)
+"Movie Details" (Screenshot_20261124_172248_Noir%20Cinema.jpg)
 
-![Player Screen](nior-player.jpg)
+"Player Screen" (Screenshot_20261124_172355_Noir%20Cinema.jpg)
