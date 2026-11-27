@@ -1,0 +1,6 @@
+{
+  "name": "Noir Cinema",
+  "description": "Noir Cinema media player with fine-tuned gesture and volume control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
